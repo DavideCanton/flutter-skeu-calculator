@@ -83,7 +83,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Container(
-        color: Color(0xFFCCCCCC),
+        color: Color(0xFFeaebf3),
         child:
             Column(mainAxisAlignment: MainAxisAlignment.end, children: <Widget>[
           Padding(
